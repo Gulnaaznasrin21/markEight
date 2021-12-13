@@ -7,7 +7,11 @@ var emojiDictionary = {
   "🍵": "Teacup Without Handle",
   "🤭": "Face with Hand Over Mouth",
   "🥵": "HOt face",
-  "🏝️": "Desert Island"
+  "🏝️": "Desert Island",
+  "🔥":"Fire",
+  "✨":"Sparkles",
+  "🇮🇳":"Flag: India",
+  "🎁":"Wrapped Gift"
 };
 var emojisWeKnow = Object.keys(emojiDictionary);
 export default function App() {
